@@ -1,0 +1,3 @@
+List2D clone do(
+	data := list(list(1, 2);, list(1, 2);, list(1, 2););
+)
